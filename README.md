@@ -1,11 +1,12 @@
 # Analysis of Last Exon variation between Pbodies and Cytoplasmic samples
 
-##Requirements
+## Requirements
 
 ### Packages and dependencies
 - Snakemake (https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 - Samtools
 - Bedtools
+
 It is advised to install these 3 in a single conda environment.
 
 
@@ -18,7 +19,7 @@ All other required datas are available in the "data" folder
 
 
 ### Run
-####Step 1 : Complete the config.json files with following parameters:
+#### Step 1 : Complete the config.json files with following parameters:
 
 - **fastq_dir**: Location of FASTQ files.
 - **star_index**: Location of STAR HG38 index.
@@ -26,7 +27,7 @@ All other required datas are available in the "data" folder
 - **data_dir**: Location of joined "data" folder.
 - **output_dir**: Location where results will be written.
 
-####Step 2 : Run
+#### Step 2 : Run
 ```
 snakemake
 ```
