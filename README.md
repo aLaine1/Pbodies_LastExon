@@ -9,12 +9,13 @@
 
 It is advised to install these 3 in a single conda environment.
 
-
 - R Packages : ggplot2,reshape2,dplyr,biomaRt,changepoint,argparse,seqinr
 
 ### Datas
 You will need a proper STAR index of Human Genome 38
+
 You also need the fastq files of the 3 Pbodies and 3 Presort samples
+
 All other required datas are available in the "data" folder
 
 
