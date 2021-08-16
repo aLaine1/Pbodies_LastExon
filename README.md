@@ -32,4 +32,4 @@ All other required datas are available in the "data" folder
 ```
 snakemake
 ```
--It is strongly advise, if possible, to add "--cores 6" to speed up the process.
+Note : It is strongly advised, if possible, to add "--cores 6" to speed up the process.
