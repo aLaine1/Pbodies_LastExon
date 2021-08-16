@@ -1,0 +1,9 @@
+.Rprofile
+renv.lock
+renv/
+
+depth/
+logs/
+alignments_STAR/
+results/
+.snakemake/

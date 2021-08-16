@@ -1,0 +1,7 @@
+{
+  "fastq_dir": "/home/antoine.laine/Documents/PBodies/fastq",
+  "star_index": "/home/antoine.laine/Documents/STAR/index_star_hg38/star",
+  "output_dir": "/home/antoine.laine/Documents/PBodies/workflow",
+  "sample_names": ["PBodies1","PBodies2","PBodies3","Cyto1","Cyto2","Cyto3"],
+  "data_dir": "/home/antoine.laine/Documents/PBodies/workflow/data"
+}
